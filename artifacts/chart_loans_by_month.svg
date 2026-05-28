@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490.0" y="36" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Динамика выдач библиотечного фонда по месяцам</text>
+<text x="22" y="247.5" transform="rotate(-90 22 247.5)" text-anchor="middle" font-family="Arial" font-size="15">число выдач</text>
+<line x1="90" y1="70" x2="90" y2="425" stroke="#334155" stroke-width="2"/>
+<line x1="90" y1="425" x2="950" y2="425" stroke="#334155" stroke-width="2"/>
+<line x1="90" y1="425.0" x2="950" y2="425.0" stroke="#e2e8f0"/>
+<text x="78" y="430.0" text-anchor="end" font-family="Arial" font-size="13" fill="#475569">0</text>
+<line x1="90" y1="336.2" x2="950" y2="336.2" stroke="#e2e8f0"/>
+<text x="78" y="341.2" text-anchor="end" font-family="Arial" font-size="13" fill="#475569">61</text>
+<line x1="90" y1="247.5" x2="950" y2="247.5" stroke="#e2e8f0"/>
+<text x="78" y="252.5" text-anchor="end" font-family="Arial" font-size="13" fill="#475569">122</text>
+<line x1="90" y1="158.8" x2="950" y2="158.8" stroke="#e2e8f0"/>
+<text x="78" y="163.8" text-anchor="end" font-family="Arial" font-size="13" fill="#475569">183</text>
+<line x1="90" y1="70.0" x2="950" y2="70.0" stroke="#e2e8f0"/>
+<text x="78" y="75.0" text-anchor="end" font-family="Arial" font-size="13" fill="#475569">244</text>
+<rect x="90.0" y="203.9" width="60.7" height="221.1" fill="#2563eb" rx="3"/>
+<text x="120.3" y="195.9" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">152</text>
+<text x="120.3" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Январь</text>
+<rect x="162.7" y="104.9" width="60.7" height="320.1" fill="#0f766e" rx="3"/>
+<text x="193.0" y="96.9" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">220</text>
+<text x="193.0" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Февраль</text>
+<rect x="235.3" y="106.4" width="60.7" height="318.6" fill="#7c3aed" rx="3"/>
+<text x="265.7" y="98.4" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">219</text>
+<text x="265.7" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Март</text>
+<rect x="308.0" y="100.6" width="60.7" height="324.4" fill="#c2410c" rx="3"/>
+<text x="338.3" y="92.6" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">223</text>
+<text x="338.3" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Апрель</text>
+<rect x="380.7" y="161.7" width="60.7" height="263.3" fill="#15803d" rx="3"/>
+<text x="411.0" y="153.7" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">181</text>
+<text x="411.0" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Май</text>
+<rect x="453.3" y="262.0" width="60.7" height="163.0" fill="#be123c" rx="3"/>
+<text x="483.7" y="254.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">112</text>
+<text x="483.7" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Июнь</text>
+<rect x="526.0" y="254.8" width="60.7" height="170.2" fill="#2563eb" rx="3"/>
+<text x="556.3" y="246.8" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">117</text>
+<text x="556.3" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Июль</text>
+<rect x="598.7" y="246.0" width="60.7" height="179.0" fill="#0f766e" rx="3"/>
+<text x="629.0" y="238.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">123</text>
+<text x="629.0" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Август</text>
+<rect x="671.3" y="86.0" width="60.7" height="339.0" fill="#7c3aed" rx="3"/>
+<text x="701.7" y="78.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">233</text>
+<text x="701.7" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Сентябрь</text>
+<rect x="744.0" y="70.0" width="60.7" height="355.0" fill="#c2410c" rx="3"/>
+<text x="774.3" y="62.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">244</text>
+<text x="774.3" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Октябрь</text>
+<rect x="816.7" y="139.8" width="60.7" height="285.2" fill="#15803d" rx="3"/>
+<text x="847.0" y="131.8" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">196</text>
+<text x="847.0" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Ноябрь</text>
+<rect x="889.3" y="163.1" width="60.7" height="261.9" fill="#be123c" rx="3"/>
+<text x="919.7" y="155.1" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">180</text>
+<text x="919.7" y="449" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">Декабрь</text>
+</svg>

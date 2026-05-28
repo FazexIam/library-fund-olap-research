@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Local submission archive; repository contents are tracked separately.
+kt5_library_olap_submission.zip
